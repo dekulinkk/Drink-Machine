@@ -12,3 +12,5 @@ Output which beverage they chose.
 If instead your program uses a switch statement, modify it to use if/else-if statements.
 
 ★★ Modify the program so that if the user enters a choice other than 1-5 then it will output "Error. choice was not valid, here is your money back."
+
+The site that I got this exercise from: https://cplusplus.com/forum/articles/12974/
